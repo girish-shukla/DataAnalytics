@@ -1,0 +1,2 @@
+HR Analytics
+Dashboard: https://app.powerbi.com/view?r=eyJrIjoiZTgzMTY4MTQtN2RjMy00MWMyLTgzMWItNjcwZGU1MTg1MTY0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
